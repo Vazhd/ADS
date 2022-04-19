@@ -29,7 +29,7 @@ public class Main {
 //        System.out.println(node.get(n));
 //
 //    }
-       //Task 4
+       //Task 4 almost
        //public static void main(String[] args) {
 //        Scanner in = new Scanner(System.in);
 //        LinkedList<Integer> node = new LinkedList<>();
